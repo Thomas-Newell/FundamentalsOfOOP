@@ -1,0 +1,9 @@
+C:\Users\ADDLab\Desktop\C# Learning\Learning\OOP Fundamentals in C#\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\ADDLab\Desktop\C# Learning\Learning\OOP Fundamentals in C#\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\ADDLab\Desktop\C# Learning\Learning\OOP Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\Users\ADDLab\Desktop\C# Learning\Learning\OOP Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\ADDLab\Desktop\C# Learning\Learning\OOP Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\ADDLab\Desktop\C# Learning\Learning\OOP Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\ADDLab\Desktop\C# Learning\Learning\OOP Fundamentals in C#\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\Users\ADDLab\Desktop\C# Learning\Learning\OOP Fundamentals in C#\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\Users\ADDLab\Desktop\C# Learning\Learning\OOP Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
